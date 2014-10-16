@@ -16,7 +16,7 @@ public class SplashActivity extends Activity {
 	    HANDLER.postDelayed(new Runnable(){
 	           public void run() {
 	                finish();
-	                startActivity (new Intent(getApplicationContext(), Login.class));
+	                startActivity (new Intent(getApplicationContext(), Images.class));
 	                overridePendingTransition(R.anim.push_up_in, R.anim.push_up_out);
 	           }
 	    }, 2000);

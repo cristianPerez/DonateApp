@@ -70,4 +70,5 @@ public class Fragmentos extends Fragment {
 
         return rootView;
     }
+
 }

@@ -2,28 +2,40 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-b99f114ed09896b76374e62dc771aebbc6379bef.jar"
-        jar="/Users/cperez354/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/classes-2d1cbc168c3c5f4aff8429e9a1779d6a0dec81da.jar"
+        jar="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
     <item
-        dex="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/classes-de1cc6b5e155880585de9c701eba8c181e66a55f.jar"
-        jar="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/classes-2a1e2339aba0e54620d1ef228d950e8d45ed3bd4.jar"
+        jar="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
     <item
-        dex="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-5059bfea7f5bfc7ebd4df77c05042b462d031f61.jar"
-        jar="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-5538afeedfc649b412229fd55d2382ca8e5b432d.jar"
+        jar="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/classes-2547086b6d1b6934237bb67e053ad0a30b86161e.jar"
+        jar="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-c2650fd1f5aa2f9b003475b6cd4f180c1d8601dc.jar"
+        jar="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
     <item
-        dex="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/classes-8adc0790520547535f17fd0dca5f153e1030c9ca.jar"
-        jar="/Users/cperez354/Documents/workspace/DonateApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        dex="/Users/usuario/Documents/workspace/DonateApp/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-ec6d251f4dfb1ecb15ad981f9539e68865724d7b.jar"
+        jar="/Users/usuario/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
 
 </pre-dex-items>
