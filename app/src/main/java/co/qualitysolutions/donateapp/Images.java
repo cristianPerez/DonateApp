@@ -36,7 +36,7 @@ public class Images extends Activity {
     public void abrirMenu(View v)
     {
         Toast.makeText(this,"Entro",Toast.LENGTH_LONG).show();
-        Intent intent = new Intent(this, MyActivity.class);
+        Intent intent = new Intent(this, co.qualitysolutions.donateapp.MyActivity.class);
         startActivity(intent);
     }
 }
